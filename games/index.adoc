@@ -5,15 +5,17 @@
 :url-repo: https://my-git-repo.com 
 
 == Eve Online
+image::/images/EveOnline.jpg[]
 - Lots of Engineering oportunities. 
 - Combat through Missions and PVP.
 
 == Everquest
+image::/images/Everquest.jpg[]
 - Huge worlds to explore.
 - Some crafting available.
 
-image::/images/FSX.jpg[]
 == Microsoft Flight Simulator X
+image::/images/FSX.jpg[]
 - Real flight training on addon aircraft.
 - GPS and Instument Navigation training.
 
