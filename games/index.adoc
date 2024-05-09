@@ -12,6 +12,7 @@
 - Huge worlds to explore.
 - Some crafting available.
 
+image::/images/FSX.jpg[]
 == Microsoft Flight Simulator X
 - Real flight training on addon aircraft.
 - GPS and Instument Navigation training.
