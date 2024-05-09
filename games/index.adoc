@@ -1,18 +1,26 @@
 // this comment line is ignored
-= IG Omega's Resume
-Donald Scott Gould <gould.dscott@gmail.com> 
+= STEM Games
 :description: The document's description. 
 :sectanchors: 
 :url-repo: https://my-git-repo.com 
 
-== IG Omega's Hobbies
-- I like to shoot stuff.
-- I like to babysit kittens on weekends.
+== Eve Online
+- Lots of Engineering oportunities. 
+- Combat through Missions and PVP.
 
-=== IG Omega's Skills
-- High Speed Targeting.
-- No Need For Sleep.
-- Can Canculate Pi to the power of Pi.
+== Everquest
+- Huge worlds to explore.
+- Some crafting available.
+
+== Microsoft Flight Simulator X
+- Real flight training on addon aircraft.
+- GPS and Instument Navigation training.
+
+== Orbiter 2016
+- Simulate space flight using addon spacecraft.
+- Realistic space physics.
+- Completely free.
+
 
 . Testing One
 . Two
